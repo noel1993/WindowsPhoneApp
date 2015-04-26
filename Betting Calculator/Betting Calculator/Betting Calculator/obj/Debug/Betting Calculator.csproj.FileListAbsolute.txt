@@ -1,0 +1,23 @@
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Betting Calculator.dll
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Betting Calculator.pdb
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\AppManifest.xaml
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\Bin\Debug\Betting_Calculator_Debug_AnyCPU.xap
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\App.g.cs
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\MainPage.g.cs
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Betting Calculator.g.resources
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Betting_Calculator.Resources.AppResources.resources
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Betting Calculator.csproj.GenerateResource.Cache
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Betting Calculator.dll
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Betting Calculator.pdb
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\XapCacheFile.xml
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\SingleBet.g.cs
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Double_Bet.g.cs
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Treble_Bet.g.cs
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Trixie_Bet.g.cs
+C:\Users\Noel\Desktop\Betting Calculator\Betting Calculator\Betting Calculator\obj\Debug\Yankee_Bet.g.cs
